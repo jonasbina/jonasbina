@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jonasbina
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning Jetpack Compose
+- 📫 How to reach me jonysbina@gmail.com
