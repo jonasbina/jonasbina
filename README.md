@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Android Developer<br>I use Kotlin and Jetpack Compose
+I'm a programmer mainly using kotlin and jetpack compose to create modern android apps.
 
 
 # 💻 Tech Stack:
